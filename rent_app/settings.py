@@ -36,7 +36,7 @@ ALLOWED_HOSTS = ['54.156.202.61','*']
 CORS_ORIGIN_ALLOW_ALL = True
 CORS_ALLOW_ALL_ORIGINS = True
 CORS_ALLOW_CREDENTIALS = True
-#AUTH_USER_MODEL = 'main.User'
+AUTH_USER_MODEL = 'users.User'
 
 LOGIN_REDIRECT_URL = "index"
 LOGOUT_REDIRECT_URL = "/"
@@ -50,6 +50,9 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'properties.apps.PropertiesConfig',
+    'users.apps.UsersConfig',
+
 ]
 
 MIDDLEWARE = [

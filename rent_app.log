@@ -112,3 +112,67 @@ asyncio DEBUG 2023-02-04 19:34:46,964 selector_events 97546 8097178880 Using sel
 django.utils.autoreload INFO 2023-02-04 19:34:47,328 autoreload 97706 8097178880 Watching for file changes with StatReloader
 asyncio DEBUG 2023-02-04 19:42:17,296 selector_events 98005 8097178880 Using selector: KqueueSelector
 asyncio DEBUG 2023-02-04 19:46:37,975 selector_events 98138 8097178880 Using selector: KqueueSelector
+asyncio DEBUG 2023-02-04 20:13:27,785 selector_events 99183 8097178880 Using selector: KqueueSelector
+asyncio DEBUG 2023-02-04 20:16:32,816 selector_events 99360 8097178880 Using selector: KqueueSelector
+django.utils.autoreload INFO 2023-02-04 20:17:06,625 autoreload 97706 8097178880 /Users/nathannoble/django/django_projects/rent_app/rent_app/settings.py changed, reloading.
+asyncio DEBUG 2023-02-04 20:17:06,629 selector_events 97706 8097178880 Using selector: KqueueSelector
+django.utils.autoreload INFO 2023-02-04 20:17:07,090 autoreload 99375 8097178880 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2023-02-04 20:19:16,824 autoreload 99375 8097178880 /Users/nathannoble/django/django_projects/rent_app/rent_app/urls.py changed, reloading.
+asyncio DEBUG 2023-02-04 20:19:16,828 selector_events 99375 8097178880 Using selector: KqueueSelector
+django.utils.autoreload INFO 2023-02-04 20:19:17,269 autoreload 99530 8097178880 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2023-02-04 20:24:45,028 autoreload 99530 8097178880 /Users/nathannoble/django/django_projects/rent_app/rent_app/settings.py changed, reloading.
+asyncio DEBUG 2023-02-04 20:24:45,032 selector_events 99530 8097178880 Using selector: KqueueSelector
+django.utils.autoreload INFO 2023-02-04 20:24:45,594 autoreload 99876 8097178880 Watching for file changes with StatReloader
+asyncio DEBUG 2023-02-04 20:24:52,479 selector_events 99889 8097178880 Using selector: KqueueSelector
+asyncio DEBUG 2023-02-04 20:27:50,560 selector_events 99876 8097178880 Using selector: KqueueSelector
+django.utils.autoreload INFO 2023-02-04 20:27:53,330 autoreload 99994 8097178880 Watching for file changes with StatReloader
+asyncio DEBUG 2023-02-04 20:28:06,453 selector_events 101 8097178880 Using selector: KqueueSelector
+asyncio DEBUG 2023-02-04 20:29:15,340 selector_events 204 8097178880 Using selector: KqueueSelector
+asyncio DEBUG 2023-02-04 20:34:03,080 selector_events 417 8097178880 Using selector: KqueueSelector
+asyncio DEBUG 2023-02-04 20:34:28,495 selector_events 425 8097178880 Using selector: KqueueSelector
+asyncio DEBUG 2023-02-04 20:34:32,222 selector_events 429 8097178880 Using selector: KqueueSelector
+asyncio DEBUG 2023-02-04 20:35:03,626 selector_events 440 8097178880 Using selector: KqueueSelector
+asyncio DEBUG 2023-02-04 20:35:45,759 selector_events 463 8097178880 Using selector: KqueueSelector
+asyncio DEBUG 2023-02-04 20:35:57,942 selector_events 470 8097178880 Using selector: KqueueSelector
+asyncio DEBUG 2023-02-04 20:36:40,782 selector_events 547 8097178880 Using selector: KqueueSelector
+asyncio DEBUG 2023-02-04 20:38:01,528 selector_events 595 8097178880 Using selector: KqueueSelector
+asyncio DEBUG 2023-02-04 20:38:32,871 selector_events 619 8097178880 Using selector: KqueueSelector
+asyncio DEBUG 2023-02-04 20:39:14,362 selector_events 658 8097178880 Using selector: KqueueSelector
+asyncio DEBUG 2023-02-04 20:39:41,003 selector_events 676 8097178880 Using selector: KqueueSelector
+django.utils.autoreload INFO 2023-02-04 20:40:50,842 autoreload 99994 8097178880 /Users/nathannoble/django/django_projects/rent_app/users/models.py changed, reloading.
+asyncio DEBUG 2023-02-04 20:40:50,846 selector_events 99994 8097178880 Using selector: KqueueSelector
+django.utils.autoreload INFO 2023-02-04 20:40:51,230 autoreload 811 8097178880 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2023-02-04 20:41:26,037 autoreload 811 8097178880 /Users/nathannoble/django/django_projects/rent_app/rent_app/settings.py changed, reloading.
+asyncio DEBUG 2023-02-04 20:41:26,040 selector_events 811 8097178880 Using selector: KqueueSelector
+django.utils.autoreload INFO 2023-02-04 20:41:26,441 autoreload 844 8097178880 Watching for file changes with StatReloader
+asyncio DEBUG 2023-02-04 20:41:31,491 selector_events 853 8097178880 Using selector: KqueueSelector
+asyncio DEBUG 2023-02-04 20:41:41,906 selector_events 860 8097178880 Using selector: KqueueSelector
+asyncio DEBUG 2023-02-04 20:41:50,561 selector_events 874 8097178880 Using selector: KqueueSelector
+asyncio DEBUG 2023-02-04 20:42:10,051 selector_events 895 8097178880 Using selector: KqueueSelector
+asyncio DEBUG 2023-02-04 20:42:13,739 selector_events 904 8097178880 Using selector: KqueueSelector
+asyncio DEBUG 2023-02-04 20:42:24,729 selector_events 924 8097178880 Using selector: KqueueSelector
+asyncio DEBUG 2023-02-04 20:42:29,451 selector_events 925 8097178880 Using selector: KqueueSelector
+asyncio DEBUG 2023-02-04 20:42:42,448 selector_events 932 8097178880 Using selector: KqueueSelector
+django.utils.autoreload INFO 2023-02-04 20:43:05,685 autoreload 844 8097178880 /Users/nathannoble/django/django_projects/rent_app/rent_app/settings.py changed, reloading.
+asyncio DEBUG 2023-02-04 20:43:05,687 selector_events 844 8097178880 Using selector: KqueueSelector
+django.utils.autoreload INFO 2023-02-04 20:43:06,088 autoreload 1043 8097178880 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2023-02-04 20:43:17,457 autoreload 1043 8097178880 /Users/nathannoble/django/django_projects/rent_app/users/models.py changed, reloading.
+asyncio DEBUG 2023-02-04 20:43:17,458 selector_events 1043 8097178880 Using selector: KqueueSelector
+django.utils.autoreload INFO 2023-02-04 20:43:17,833 autoreload 1072 8097178880 Watching for file changes with StatReloader
+asyncio DEBUG 2023-02-04 20:43:32,977 selector_events 1089 8097178880 Using selector: KqueueSelector
+asyncio DEBUG 2023-02-04 20:43:41,387 selector_events 1091 8097178880 Using selector: KqueueSelector
+asyncio DEBUG 2023-02-04 20:44:10,536 selector_events 1072 8097178880 Using selector: KqueueSelector
+asyncio DEBUG 2023-02-04 20:44:10,611 selector_events 99993 8097178880 Using selector: KqueueSelector
+django.utils.autoreload INFO 2023-02-04 20:44:12,701 autoreload 1108 8097178880 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2023-02-04 20:47:56,106 autoreload 1108 8097178880 /Users/nathannoble/django/django_projects/rent_app/users/models.py changed, reloading.
+asyncio DEBUG 2023-02-04 20:47:56,111 selector_events 1108 8097178880 Using selector: KqueueSelector
+django.utils.autoreload INFO 2023-02-04 20:47:56,547 autoreload 1262 8097178880 Watching for file changes with StatReloader
+asyncio DEBUG 2023-02-04 20:48:12,541 selector_events 1271 8097178880 Using selector: KqueueSelector
+django.utils.autoreload INFO 2023-02-04 20:49:53,320 autoreload 1262 8097178880 /Users/nathannoble/django/django_projects/rent_app/users/models.py changed, reloading.
+asyncio DEBUG 2023-02-04 20:49:53,325 selector_events 1262 8097178880 Using selector: KqueueSelector
+django.utils.autoreload INFO 2023-02-04 20:49:53,785 autoreload 1406 8097178880 Watching for file changes with StatReloader
+asyncio DEBUG 2023-02-04 20:50:02,067 selector_events 1417 8097178880 Using selector: KqueueSelector
+asyncio DEBUG 2023-02-04 20:52:19,546 selector_events 1502 8097178880 Using selector: KqueueSelector
+django.utils.autoreload INFO 2023-02-04 20:53:56,532 autoreload 1406 8097178880 /Users/nathannoble/django/django_projects/rent_app/users/admin.py changed, reloading.
+asyncio DEBUG 2023-02-04 20:53:56,536 selector_events 1406 8097178880 Using selector: KqueueSelector
+django.utils.autoreload INFO 2023-02-04 20:53:57,008 autoreload 1682 8097178880 Watching for file changes with StatReloader
